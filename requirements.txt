@@ -1,2 +1,3 @@
 six
-social-auth-core >= 3.2.0
+#social-auth-core >= 3.2.0
+https://github.com/DolanMaize/social-core/archive/master.zip
